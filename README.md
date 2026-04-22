@@ -1,20 +1,6 @@
 # Trilha-Aprendizado-Python
 ### Roteiro
 # Trilhas de Aprendizado Python
-> *4 trilhas · bibliografias comentadas · progressão estruturada*
-
----
-
-## Índice
-- [01 · Python Básico](#01--python-básico)
-- [02 · Python em Planejamento e Análise Financeira](#02--python-em-planejamento-e-análise-financeira)
-- [03 · Python em Lógica Fuzzy](#03--python-em-lógica-fuzzy)
-- [04 · Python em Algoritmos Genéticos](#04--python-em-algoritmos-genéticos)
-
----
-
-## 01 · Python Básico
-🐍 **3 Fases · 8 Livros · ~4–6 meses**
 
 > Fundamentos da linguagem, estruturas de dados, orientação a objetos e boas práticas.
 
@@ -53,4 +39,4 @@
 | 🔴 Avançado | **The Hitchhiker's Guide to Python** | Kenneth Reitz & Tanya Schlusser · O'Reilly | Guia de melhores práticas do ecossistema Python. Disponível em [docs.python-guide.org](https://docs.python-guide.org). |
 
 
-*Python Learning Paths · 2025 · 4 trilhas · 30 referências bibliográficas*
+
